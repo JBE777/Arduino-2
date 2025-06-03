@@ -15,7 +15,9 @@ $$
 \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
 $$
 
-<video src="https://sec.ch9.ms/ch9/7247/7c8ddc1a-348b-4ba9-ab61-51fded6e7247/vstswiki_high.mp4" width=400 controls></video>
+
+<video src="https://www.youtube.com/watch?v=cMdI2EC5zbQ" width=400 controls></video> 
+
 
 # Arduino libraries
 
