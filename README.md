@@ -1,4 +1,9 @@
 ![C++](https://img.shields.io/badge/C++-Arduino-009988.svg?style=for-the-badge/&logo=c%2B%2B&logoColor=009988)
+
+$
+\alpha, \beta, \gamma, \delta, \epsilon, \zeta, \eta, \theta, \kappa, \lambda, \mu, \nu, \omicron, \pi, \rho, \sigma, \tau, \upsilon, \phi, ...
+$ 
+$\Gamma,  \Delta,  \Theta, \Lambda, \Xi, \Pi, \Sigma, \Upsilon, \Phi, \Psi, \Omega$
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
