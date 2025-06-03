@@ -1,10 +1,24 @@
 ![C++](https://img.shields.io/badge/C++-Arduino-009988.svg?style=for-the-badge/&logo=c%2B%2B&logoColor=009988)
+![Latex](https://img.shields.io/badge/Codigo-Latex-009988.svg?style=for-the-badge/&logo=latex&logoColor=00ff00)
 
 $\alpha, \beta, \gamma, \delta, \epsilon, \zeta, \eta, \theta, \kappa, \lambda, \mu, \nu, \omicron, \pi, \rho, \sigma, \tau, \upsilon, \phi, ...$ 
 
 $\Gamma,  \Delta,  \Theta, \Lambda, \Xi, \Pi, \Sigma, \Upsilon, \Phi, \Psi, \Omega$
 
 $\int_0^\infty e^{-st}dt$
+
+$$
+\sum_{i=1}^{10} t_i
+$$
+
+$$
+\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+$$
+
+::: mermaid
+<mermaid diagram syntax>
+:::
+
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
