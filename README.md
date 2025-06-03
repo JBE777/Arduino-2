@@ -50,6 +50,13 @@ classDiagram
     }
 :::
 
+:::mermaid
+pie title Fishermans in countries
+    "Norway" : 684
+    "Sweeden" : 234
+    "Switzerland" : 10
+:::
+
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
