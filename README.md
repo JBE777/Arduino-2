@@ -26,6 +26,30 @@ graph LR;
     C -->|Two| E[Result two]
 :::
 
+:::mermaid
+classDiagram
+    Creature <|-- Superman
+    Creature <|-- Vampire
+    Creature <|-- Diavolo
+    Creature: +int size
+    Creature: +int weight
+    Creature: +isBenign()
+    Creature: +power()
+    class Superman{
+        +String currentName
+        +fly()
+        +heal()
+    }
+    class Vampire{
+        -int age
+        -canBite()
+    }
+    class Diavolo{
+        +bool is_serving
+        +heat()
+    }
+:::
+
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
