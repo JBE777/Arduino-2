@@ -26,7 +26,7 @@ graph LR;
     C -->|Two| E[Result two]
 :::
 
-$ :::mermaid
+:::mermaid
 classDiagram
     Creature <|-- Superman
     Creature <|-- Vampire
@@ -48,7 +48,7 @@ classDiagram
         +bool is_serving
         +heat()
     }
-:::$
+:::
 
 # Arduino libraries
 
