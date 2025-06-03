@@ -19,6 +19,13 @@ $$
 <mermaid diagram syntax>
 :::
 
+::: mermaid
+sequenceDiagram
+    Christie->>Josh: Hello Josh, how are you?
+    Josh-->>Christie: Great!
+    Christie->>Josh: See you later!
+:::
+
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
