@@ -1,3 +1,4 @@
+![C++](https://img.shields.io/badge/C++-Arduino-009988.svg?style=for-the-badge/&logo=c%2B%2B&logoColor=009988)
 # Arduino libraries
 
 **NOTE** these libraries all have their own repo under https://github.com/RobTillaart?tab=repositories
