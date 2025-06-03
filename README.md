@@ -15,47 +15,8 @@ $$
 \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
 $$
 
-::: mermaid
-<mermaid diagram syntax>
-:::
-
-:::mermaid
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge) --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-:::
-
-:::mermaid
-classDiagram
-    Creature <|-- Superman
-    Creature <|-- Vampire
-    Creature <|-- Diavolo
-    Creature: +int size
-    Creature: +int weight
-    Creature: +isBenign()
-    Creature: +power()
-    class Superman{
-        +String currentName
-        +fly()
-        +heal()
-    }
-    class Vampire{
-        -int age
-        -canBite()
-    }
-    class Diavolo{
-        +bool is_serving
-        +heat()
-    }
-:::
-
-:::mermaid
-pie title Fishermans in countries
-    "Norway" : 684
-    "Sweeden" : 234
-    "Switzerland" : 10
-:::
+<video src="https://sec.ch9.ms/ch9/7247/7c8ddc1a-348b-4ba9-ab61-51fded6e7247/vstswiki_high.mp4" width=400 controls>
+</video>
 
 # Arduino libraries
 
